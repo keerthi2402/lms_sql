@@ -19,7 +19,7 @@ insert into customer
            ('9','Quantum Mechanics','Rafay','BLOCK-5-A-SITE','190422','3'),
            ('10','Duckly Inheritance','Sami','BLOCK-7-A-SITE','160422','2');
            
- insert into Authentication_system
+insert into Authentication_system
            (login_id,password)
            values
            ('1','100')
@@ -41,7 +41,7 @@ insert into customer
            ('Duckly Inheritance','pat cummins')
            ('Echo Foxtrot'.'Theiry')
            ('Fallen','Hasan')
-           ('Nazi Hitler','Robin scpahnck')
+           ('Nazi and Hitler','Robin scpahnck')
            ('Nitrate','kevin Phillips')
            ('Quantum Mechanics','Jack Wandepilasch')
            ('Shawahank Redemption','Camy kin')
@@ -57,7 +57,7 @@ insert into book
            ('104','1','6659','ECho Foxtrot')
            ('105','3','65','Nitrate')
            ('106','1','5','Shawashank Redemption')
-           ('107','4','120','Nazi Hitler')
+           ('107','4','120','Nazi and Hitler')
            ('108','3','240','Quantum Mechnaics')
            ('109','2','678','Duckly Inheritence');
            
