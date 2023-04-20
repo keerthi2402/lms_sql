@@ -1,4 +1,4 @@
-inset into branch
+insert into branch
            (manager_id, branch_id, address)
            values
            ('1','1','32 Corner Road, New York, NY 10012'),
@@ -41,7 +41,7 @@ insert into customer
            ('Duckly Inheritance','pat cummins')
            ('Echo Foxtrot'.'Theiry')
            ('Fallen','Hasan')
-           ('Nazi and Hitler','Robin scpahnck')
+           ('Nazi Hitler','Robin scpahnck')
            ('Nitrate','kevin Phillips')
            ('Quantum Mechanics','Jack Wandepilasch')
            ('Shawahank Redemption','Camy kin')
@@ -57,7 +57,7 @@ insert into book
            ('104','1','6659','ECho Foxtrot')
            ('105','3','65','Nitrate')
            ('106','1','5','Shawashank Redemption')
-           ('107','4','120','Nazi and Hitler')
+           ('107','4','120','Nazi Hitler')
            ('108','3','240','Quantum Mechnaics')
            ('109','2','678','Duckly Inheritence');
            
