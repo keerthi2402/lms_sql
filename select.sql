@@ -12,6 +12,6 @@ select * from staff
 
 select * from book
 
-slect * from updates
+select * from updates
 
 select * from issue_status
